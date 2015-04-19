@@ -1,126 +1,41 @@
-## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
+<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN”
+“http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
+<html xmlns=”http://www.w3.org/1999/xhtml”>
+<head>
+<title>introduction github</title>
+<meta http-equiv=”Content-Type”
+content=”text/html; charset=utf-8″/>
+<h2>GITHUB</h2>
+<font size="+4"  color="blue">GITHUB</font>
+<img src="logo.gif" align="center">
+<img  src=”http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/600px-GitHub_logo_2013.svg.png"" alt=”A circle of divers practice their skills” />
+</head>
+<body>
 
-## Intermediate documents:
-*.dvi
-*-converted-to.*
-# these rules might exclude image files for figures etc.
-# *.ps
-# *.eps
-# *.pdf
 
-## Bibliography auxiliary files (bibtex/biblatex/biber):
-*.bbl
-*.bcf
-*.blg
-*-blx.aux
-*-blx.bib
-*.brf
-*.run.xml
+<h1>introduction github</h1>
+<p></p>
+<p>GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration.</p>
+      
+<p>GitHub is mostly used for code</p>
+<ul>
+<li>Documentation, including automatically-rendered README files in a variety of Markdown-like file formats</li>
+<li>Issue tracking (including feature requests)</li>
+<li>Small websites can be hosted from public repositories on GitHub. The URL format is http://projectname.github.io.</li>
+<li>Nested task-lists within files</li>
+<li>Visualization of geospatial data</li>
+<li>Gantt charts</li>
 
-## Build tool auxiliary files:
-*.fdb_latexmk
-*.synctex
-*.synctex.gz
-*.synctex.gz(busy)
-*.pdfsync
 
-## Auxiliary and intermediate files from other packages:
+</ul>
+<p>Github Bootcamp:</p>
+<ol>
+<li>Setup git</li>
+<li>Creat repository</li>
+<li>Fork repository</li>
+<li>Work together</li>
 
-# algorithms
-*.alg
-*.loa
 
-# achemso
-acs-*.bib
-
-# amsthm
-*.thm
-
-# beamer
-*.nav
-*.snm
-*.vrb
-
-#(e)ledmac/(e)ledpar
-*.end
-*.[1-9]
-*.[1-9][0-9]
-*.[1-9][0-9][0-9]
-*.[1-9]R
-*.[1-9][0-9]R
-*.[1-9][0-9][0-9]R
-*.eledsec[1-9]
-*.eledsec[1-9]R
-*.eledsec[1-9][0-9]
-*.eledsec[1-9][0-9]R
-*.eledsec[1-9][0-9][0-9]
-*.eledsec[1-9][0-9][0-9]R
-
-# glossaries
-*.acn
-*.acr
-*.glg
-*.glo
-*.gls
-
-# gnuplottex
-*-gnuplottex-*
-
-# hyperref
-*.brf
-
-# knitr
-*-concordance.tex
-*.tikz
-*-tikzDictionary
-
-# listings
-*.lol
-
-# makeidx
-*.idx
-*.ilg
-*.ind
-*.ist
-
-# minitoc
-*.maf
-*.mtc
-*.mtc0
-
-# minted
-_minted*
-*.pyg
-
-# morewrites
-*.mw
-
-# nomencl
-*.nlo
-
-# sagetex
-*.sagetex.sage
-*.sagetex.py
-*.sagetex.scmd
-
-# sympy
-*.sout
-*.sympy
-sympy-plots-for-*.tex/
-
-# todonotes
-*.tdo
-
-# xindy
-*.xdy
-
-# WinEdt
-*.bak
-*.sav
+</ol>
+</body>
+</html>
