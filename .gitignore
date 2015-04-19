@@ -13,12 +13,12 @@ content=”text/html; charset=utf-8″/>
 <body>
 
 
-<h1>introduction github</h1>
+<p><font size="+2"  color="330000">introduction github</font></p>
 <p></p>
-<p>GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration.</p>
+<p><font size="+1"  color="330000">GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration.</font></p>
       
-<p>GitHub is mostly used for code</p>
-<ul>
+<p><font size="+2"  color="ff3366">GitHub is mostly used for code</font></p>
+<ul><font size="+1"  color="990000">
 <li>Documentation, including automatically-rendered README files in a variety of Markdown-like file formats</li>
 <li>Issue tracking (including feature requests)</li>
 <li>Small websites can be hosted from public repositories on GitHub. The URL format is http://projectname.github.io.</li>
@@ -26,15 +26,15 @@ content=”text/html; charset=utf-8″/>
 <li>Visualization of geospatial data</li>
 <li>Gantt charts</li>
 
-
+</font>
 </ul>
-<p>Github Bootcamp:</p>
-<ol>
+<p><font size="+2"  color="ff3366">Github Bootcamp:</font></p>
+<ol><font size="+1"  color="990000">
 <li>Setup git</li>
 <li>Creat repository</li>
 <li>Fork repository</li>
 <li>Work together</li>
-
+</font>
 
 </ol>
 </body>
