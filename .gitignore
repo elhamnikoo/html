@@ -5,20 +5,23 @@
 <title>introduction github</title>
 <meta http-equiv=”Content-Type”
 content=”text/html; charset=utf-8″/>
-<h2>GITHUB</h2>
+<h2 align="center"><b>GITHUB</b></h2>
 <font size="+4"  color="blue">GITHUB</font>
-<img src="logo.gif" align="center">
-<img  src=”http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/600px-GitHub_logo_2013.svg.png"" alt=”A circle of divers practice their skills” />
+
+
 </head>
-<body>
 
+<body background="identicon.png">
+<center>
+<img src="github-social-coding.jpg">
+</center>
 
-<p><font size="+2"  color="330000">introduction github</font></p>
+<p><font size="+3"  color="330000"><b>introduction github</b></font></p>
 <p></p>
-<p><font size="+1"  color="330000">GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration.</font></p>
+<p><font size="+2"  color="330000">GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration.</font></p>
       
-<p><font size="+2"  color="ff3366">GitHub is mostly used for code</font></p>
-<ul><font size="+1"  color="990000">
+<p><font size="+3"  color="ff3366"><b>GitHub is mostly used for code</b></font></p>
+<ul><font size="+2"  color="990000">
 <li>Documentation, including automatically-rendered README files in a variety of Markdown-like file formats</li>
 <li>Issue tracking (including feature requests)</li>
 <li>Small websites can be hosted from public repositories on GitHub. The URL format is http://projectname.github.io.</li>
@@ -28,8 +31,8 @@ content=”text/html; charset=utf-8″/>
 
 </font>
 </ul>
-<p><font size="+2"  color="ff3366">Github Bootcamp:</font></p>
-<ol><font size="+1"  color="990000">
+<p><font size="+3"  color="ff3366"><b>Github Bootcamp:</b></font></p>
+<ol><font size="+2"  color="990000">
 <li>Setup git</li>
 <li>Creat repository</li>
 <li>Fork repository</li>
